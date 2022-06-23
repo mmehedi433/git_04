@@ -1,8 +1,4 @@
 This is two
 
-.
-.
-Two from Staging			Merged
-
-Two from Staging	2nd Try		Merged
+Two from Staging
 
